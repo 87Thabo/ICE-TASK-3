@@ -37,5 +37,5 @@ project-root/
 │── index.html       # Main website file
 │── _images/         # Image assets (before/after, gallery)
 │── README.md        # Project documentation
-git clone https://github.com/your-username/your-repo-name.git
+Repository link:https://github.com/87Thabo/ICE-TASK-3.git
 
